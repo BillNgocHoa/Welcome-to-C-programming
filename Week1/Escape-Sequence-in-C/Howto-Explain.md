@@ -11,3 +11,5 @@ The third printf() statement prints out the string "This", followed by four newl
 The fourth printf() statement uses the tab escape sequence '\t' to separate the string "This", "is", "a", and "C program" with tabs. This will align each string to the next tab stop in the console.
 
 Finally, the program returns 0 using the return statement, which signals to the operating system that the program has executed successfully.
+
+![Escape Sequence (xuống hàng, cách dòng)](https://user-images.githubusercontent.com/115616583/230870032-b88743a0-807c-400e-8ef8-9505a5a88bfd.PNG)
